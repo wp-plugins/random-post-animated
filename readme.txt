@@ -6,7 +6,7 @@ Tested up to: 4.1.1
 License: GPL2 or Later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Displays randomly selected links to posts from a selection list according to an adjustable time interval. - Set the Speed, Specify Categories and Exclude Certain Posts.
+Displays randomly selected links to posts from a list according to an adjustable time interval. - Set the Speed, Categories and Exclude Certain Posts.
 
 == Description ==
 
