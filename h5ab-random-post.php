@@ -1,7 +1,7 @@
 <?php
 /**
- * Plugin Name: Random Post
- * Plugin URI: http://URI_Of_Page_Describing_Plugin_and_Updates
+ * Plugin Name: Random Post Animated
+ * Plugin URI: https://www.html5andbeyond.com/random-post-animated-widget-wordpress-plugin/
  * Description: Displays randomly selected links to posts from a selection list according to an adjustable time interval.
  * Version: 0.1
  * Author: HTML5andBeyond
