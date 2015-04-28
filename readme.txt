@@ -2,7 +2,7 @@
 Contributors: html5andblog, apritchard2751
 Tags: random post, post widget, random widget, widget, animated post, animated widget
 Requires at least: 4.0
-Tested up to: 4.1.1
+Tested up to: 4.2.1
 License: GPL2 or Later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
